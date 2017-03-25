@@ -12,17 +12,12 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: black;
   border-width: 3px;
   max-width: 50px;
 }
 hr.light {
   border-color: white;
-}
-hr.dark{
-  border-color: black;
-  border-width: 2px;
-  max-width: 100%;
 }
 a {
   -webkit-transition: all 0.35s;
