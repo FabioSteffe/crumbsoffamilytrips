@@ -14,10 +14,16 @@ body {
 hr {
   border-color: black;
   border-width: 3px;
-  max-width: 50px;
+  max-width: 100%;
 }
 hr.light {
   border-color: white;
+}
+img.appname{
+  width: 500px;
+  height: 200px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 a {
   -webkit-transition: all 0.35s;
