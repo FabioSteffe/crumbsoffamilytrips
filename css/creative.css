@@ -12,12 +12,17 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: black;
+  border-color: #F05F40;
   border-width: 3px;
-  max-width: 100%;
+  max-width: 50px;
 }
 hr.light {
   border-color: white;
+}
+hr.upbar{
+  border-color: black;
+  border-width: 3px;
+  max-width: 100%;
 }
 img.appname{
   width: 500px;
@@ -50,7 +55,7 @@ p {
   margin-bottom: 20px;
 }
 .bg-primary {
-  background-color: dodgerblue;
+  background-color: white;
 }
 .bg-dark {
   background-color: #222222;
